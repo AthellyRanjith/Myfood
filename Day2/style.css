@@ -1,0 +1,33 @@
+header{
+    text-align:center;
+}
+.main{
+    /* border: 2px solid green; */
+    margin-left: 100px;
+    width:auto;
+    /* height: 500px; */
+}
+.child1,.child2,.child3,.child4{
+    /* border: 2px solid red; */
+    width:350px;
+    /* height:400px; */
+    display:inline-block;
+    margin: 30px;
+}
+
+h2,h3,h4{
+text-align: center;
+}
+img{
+    width: 100%;
+}
+.abcd{
+ width: 700px;
+ margin-left: 600px;
+}
+.para{
+    text-align: center;
+    padding-left:250px; 
+    padding-right:250px;
+}
+
